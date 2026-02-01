@@ -1,0 +1,6 @@
+﻿{
+  "version": 2,
+  "node_version": "18.x",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
+}
